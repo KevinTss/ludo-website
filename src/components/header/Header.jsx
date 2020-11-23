@@ -8,7 +8,7 @@ import Logo from "../logo"
 const HeaderSection = () => {
   const data = useStaticQuery(graphql`
     query {
-      logo: file(relativePath: { eq: "logo/logo.jpg" }) {
+      logo: file(relativePath: { eq: "logo.png" }) {
         childImageSharp {
           fixed(width: 125, quality: 90) {
             ...GatsbyImageSharpFixed

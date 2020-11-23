@@ -15,7 +15,7 @@ const facebookAppID = "1245595732188922"
 const Head = () => {
   const data = useStaticQuery(graphql`
     query {
-      ogImage: file {
+      ogImage: file(relativePath: { eq: "ludo-1.jpg" }) {
         absolutePath
       }
     }

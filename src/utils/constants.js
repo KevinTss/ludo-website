@@ -7,4 +7,6 @@ export const COLOR = {
   PICTON_BLUE: "#54b8f2",
   SHAMROCK: "#5ae0a6",
   WHISPER: "#f6f7fa",
+  BATTLESHIP_GREY: "#7b8b74",
+  HEAVY_METAL: "#2d3327",
 }

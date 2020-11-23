@@ -2,7 +2,7 @@ import styled from "styled-components"
 
 import { COLOR } from "../../../utils/constants"
 
-export const QuoteContainer = styled.div`
+export const IntroContainer = styled.div`
   display: flex;
   justify-content: center;
   width: 100%;
