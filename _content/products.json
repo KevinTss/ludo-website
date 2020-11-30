@@ -1,0 +1,10 @@
+{
+  "title": "Mes produits",
+  "items": [
+    {
+      "name": "Hotel à insecte",
+      "price": 20
+    }
+  ],
+  "decription": "test"
+}
